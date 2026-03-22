@@ -31,3 +31,5 @@ while tamanholista >= 0:
     print(fruits[tamanholista])
     tamanholista =- 1 
 
+print("Bom dia!")
+
